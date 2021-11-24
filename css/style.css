@@ -4,8 +4,9 @@
     box-sizing: border-box;
 }
 
-.background-avatar {
+.background-sec {
     background-color: darkcyan;
+    color: white;
 }
 
 .container-avatar {
@@ -71,4 +72,15 @@
     width: 100%;
     max-width: 1000px;
     margin: 0 auto;
+}
+
+.m-0-auto {
+    margin: 0 auto;
+}
+
+.button-trans {
+    background-color: transparent;
+    border-radius: 5px;
+    border: 1px solid white;
+    color: white;
 }
