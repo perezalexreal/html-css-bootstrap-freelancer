@@ -84,3 +84,55 @@
     border: 1px solid white;
     color: white;
 }
+
+
+#contact ::placeholder {
+    color: white;
+}
+
+
+.green{
+    background-color: darkcyan;;
+}
+
+.white-text{
+    color: white;
+}
+
+.black-text{
+    color: black;
+}
+
+.green-text{
+    color: darkcyan;;
+    font-weight: bold;
+}
+
+.light-gray{
+    background-color: #2d4e6b;
+}
+
+.gray{
+    background-color: #35383b; 
+}
+
+.button_submit{
+    width: 150px; 
+    background-color: darkcyan;;
+    border: 1px solid white;
+    border-radius: 5px;
+    color: white;
+}
+
+.button_submit{
+    width: 50px;
+    border: none;
+}
+
+input[type="text"], textarea{
+    border-bottom: 1px solid gray;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+
